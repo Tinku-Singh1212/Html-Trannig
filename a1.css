@@ -1,0 +1,22 @@
+#box{
+    color: rgb(255, 0, 25);
+    background-color: blue;
+}
+.myhd{
+    color: red;
+}
+button{
+    color: white;
+    background-color: green;
+}
+p{
+    text-align:justify;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    text-decoration:blue dotted underline;
+}
+a{
+    text-decoration: none;
+}
